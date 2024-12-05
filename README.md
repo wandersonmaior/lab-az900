@@ -1,3 +1,4 @@
 # Formação Microsoft AZ-900 Certification
 
-![image](https://github.com/user-attachments/assets/1a3713bb-b7e1-41d6-a4d4-7e5b33eb982e)
+![image](https://github.com/user-attachments/assets/3f808072-8de8-4622-a01e-cb3d7f3d41cc)
+
